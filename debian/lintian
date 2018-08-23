@@ -1,0 +1,2 @@
+vyatta-suspend: file-in-unusual-dir
+vyatta-suspend: dir-or-file-in-opt

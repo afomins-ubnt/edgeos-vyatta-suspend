@@ -1,0 +1,6 @@
+The Debian Package vyatta-suspend
+----------------------------
+
+This package has the Vyatta configuration and operational templates and scripts for subscriber suspension.
+
+ -- Sandis Neilands <sandis.neilands@ubnt.com>  Thu, 23 Aug 2018 12:58:47 +0300
